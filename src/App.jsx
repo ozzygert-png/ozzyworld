@@ -65,10 +65,12 @@ const App = () => {
           <img src="./jean store.jpg" alt="#" />
          
         </div>
+
       </section>
 
       {/* <!--TESTIMONY--> */}
       <section id="testimonials">
+        
         <h4>TESTIMONIALS</h4>
         <h2>What our customers says</h2>
 
